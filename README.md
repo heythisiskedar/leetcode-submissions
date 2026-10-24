@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0007-reverse-integer/) | Medium |
+| [0507-perfect-number](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/heythisiskedar/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 | Problem Name | Difficulty |
