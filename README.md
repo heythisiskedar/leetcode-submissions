@@ -25,8 +25,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/heythisiskedar/leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0152-maximum-product-subarray](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/heythisiskedar/leetcode-submissions/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0152-maximum-product-subarray/) | Medium |
 <!---LeetCode Topics End-->
