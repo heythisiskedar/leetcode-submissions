@@ -4,6 +4,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/heythisiskedar/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 ## String
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/heythisiskedar/leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -34,4 +36,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0152-maximum-product-subarray/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
