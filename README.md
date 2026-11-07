@@ -28,6 +28,7 @@
 | [0014-longest-common-prefix](https://github.com/heythisiskedar/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0493-reverse-pairs](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0493-reverse-pairs/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +41,32 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0493-reverse-pairs/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0493-reverse-pairs/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
