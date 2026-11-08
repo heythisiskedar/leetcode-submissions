@@ -1,37 +1,33 @@
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
-        Stack<int[]> stack = new Stack<>();
+        Stack<Integer> stack = new Stack<>();
 
-        for (int i = 0; i < asteroids.length; i++) {
-            if (asteroids[i] > 0) {
-                stack.push(new int[] {asteroids[i], i});
-                continue;
+        for (int ast : asteroids) {
+            boolean survived = true;
+
+            while (!stack.isEmpty() && stack.peek() > 0 && ast < 0) {
+                if (stack.peek() < Math.abs(ast)) {
+                    stack.pop();
+                    continue;
+                } else if (stack.peek() == Math.abs(ast)) {
+                    stack.pop();
+                    survived = false;
+                } else {
+                    survived = false;
+                }
+                break;
             }
 
-            
-            while (!stack.isEmpty() && stack.peek()[0] < Math.abs(asteroids[i])) {
-                asteroids[stack.peek()[1]] = 0;
-                stack.pop();
-            }
-
-            if (!stack.isEmpty() && stack.peek()[0] == Math.abs(asteroids[i])) {
-                asteroids[stack.peek()[1]] = 0;
-                asteroids[i] = 0;
-                stack.pop();
-            } else if (!stack.isEmpty() && stack.peek()[0] > Math.abs(asteroids[i])) {
-                asteroids[i] = 0;
-            }            
-        }
-
-        int index = 0;
-        
-        for (int i = 0; i < asteroids.length; i++) {
-            if (asteroids[i] != 0) {
-                asteroids[index] = asteroids[i];
-                index++;
+            if (survived) {
+                stack.push(ast);
             }
         }
 
-        return Arrays.copyOf(asteroids, index);
+        int[] result = new int[stack.size()];
+        for (int i = result.length - 1; i >= 0; i--) {
+            result[i] = stack.pop();
+        }
+
+        return result;
     }
 }
