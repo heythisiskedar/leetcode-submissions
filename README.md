@@ -29,6 +29,7 @@
 | [0088-merge-sorted-array](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0493-reverse-pairs](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0493-reverse-pairs/) | Hard |
+| [0735-asteroid-collision](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0735-asteroid-collision/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0493-reverse-pairs/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0735-asteroid-collision/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
