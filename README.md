@@ -4,6 +4,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/heythisiskedar/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 ## String
@@ -84,4 +85,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0282-expression-add-operators](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0282-expression-add-operators/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
