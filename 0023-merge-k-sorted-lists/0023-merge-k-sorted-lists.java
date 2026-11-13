@@ -22,8 +22,6 @@ class Solution {
             return lists[start];
         }
 
-        
-
         int mid = start + (end - start) / 2;
         ListNode left = mergeKListsHelper(lists, start, mid);
         ListNode right = mergeKListsHelper(lists, mid + 1, end);
