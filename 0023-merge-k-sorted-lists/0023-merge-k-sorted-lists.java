@@ -22,9 +22,7 @@ class Solution {
             return lists[start];
         }
 
-        if (start + 1 == end) {
-            return merge(lists[start], lists[end]);
-        }
+        
 
         int mid = start + (end - start) / 2;
         ListNode left = mergeKListsHelper(lists, start, mid);
