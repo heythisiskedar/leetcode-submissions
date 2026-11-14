@@ -4,17 +4,16 @@ class Solution {
         long sumRange = 0;
 
         for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
-                int min = Integer.MAX_VALUE;
-                int max = Integer.MIN_VALUE;
+            int min = nums[i];
+            int max = nums[i];
 
-                for (int k = i; k <= j; k++) {
-                    min = Math.min(min, nums[k]);
-                    max = Math.max(max, nums[k]);
-                }
-
+            for (int j = i + 1; j < n; j++) {
+                min = Math.min(min, nums[j]);
+                max = Math.max(max, nums[j]);
                 sumRange += (max - min);
             }
+
+            
         }
 
         return sumRange;
