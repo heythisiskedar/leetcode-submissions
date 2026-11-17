@@ -7,6 +7,7 @@
 | [0061-rotate-list](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/heythisiskedar/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0455-assign-cookies](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0455-assign-cookies/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0455-assign-cookies/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/heythisiskedar/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 | Problem Name | Difficulty |
@@ -31,6 +33,7 @@
 | [0014-longest-common-prefix](https://github.com/heythisiskedar/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0455-assign-cookies](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0455-assign-cookies/) | Easy |
 | [0493-reverse-pairs](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0493-reverse-pairs/) | Hard |
 | [0735-asteroid-collision](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0735-asteroid-collision/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/heythisiskedar/leetcode-submissions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -46,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0455-assign-cookies](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0455-assign-cookies/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +110,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/heythisiskedar/leetcode-submissions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
