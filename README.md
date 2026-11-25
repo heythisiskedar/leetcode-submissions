@@ -36,6 +36,7 @@
 | [0455-assign-cookies](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0455-assign-cookies/) | Easy |
 | [0493-reverse-pairs](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0493-reverse-pairs/) | Hard |
 | [0735-asteroid-collision](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0735-asteroid-collision/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/heythisiskedar/leetcode-submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/heythisiskedar/leetcode-submissions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -114,4 +115,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/heythisiskedar/leetcode-submissions/tree/main/0455-assign-cookies/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/heythisiskedar/leetcode-submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/heythisiskedar/leetcode-submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
