@@ -7,18 +7,16 @@ class Solution {
         for (int j = 0; j < fruits.length; j++) {
             basket.put(fruits[j], basket.getOrDefault(fruits[j], 0) + 1);
 
-            while (basket.size() > 2) {
+            if (basket.size() > 2) {
                 int leftFruit = fruits[i];
-                basket.put(leftFruit, basket.get(leftFruit) - 1);
+                basket.put(leftFruit, basket.getOrDefault(leftFruit, 0) - 1);
                 if (basket.get(leftFruit) == 0) {
                     basket.remove(leftFruit);
                 }
                 i++;
             }
-
-            maxLen = Math.max(maxLen, j - i + 1);
         }
 
-        return maxLen;
+        return fruits.length - i;
     }
 }
